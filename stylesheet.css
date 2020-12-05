@@ -1,0 +1,96 @@
+html {
+    font-size: 10px;
+    color: white;
+}
+
+body {
+    margin-top: 4em;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#title, figcaption, h2 {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 1em;
+    font-size: 1.3em;
+}
+
+main {
+    background-color: black;
+}
+
+#tribute-info {
+    margin-top: 100em;
+    background-color: black;
+}
+
+header {
+    height: 1em;
+    background-color: black;
+}
+
+#title {
+    font-size: 10em;
+}
+
+h2 {
+    font-size: 10em;
+    color: black;
+    display: block;
+    max-width: 50%;
+    text-align: center;
+    padding: 0.1em 0.1sem;
+    margin: 0 auto;
+    background-color: red;
+}
+
+p {
+    text-align: left;
+    max-width: 35%;
+    margin: 2em auto;
+    font-size: 1.9em;
+    line-height: 1.8em;
+}
+
+a {
+    color: plum;
+}
+
+#my-likes {
+    margin-top: 50em;
+}
+
+h3 {
+    text-align: left;
+    font-size: 2em;
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+    display: block;
+    width: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(12, 8, 5);
+    padding: 1em 2em;
+    background-color: #65e4bada;
+    margin: 2em auto;
+    font-size: 2em;
+    line-height: 2.5em;
+    text-align: left;
+}
+
+li {
+    padding: 0em 0.4em;
+}
+
+footer {
+    background-color: rgba(221, 160, 221, 0.404);
+    height: 3.2em;
+}
